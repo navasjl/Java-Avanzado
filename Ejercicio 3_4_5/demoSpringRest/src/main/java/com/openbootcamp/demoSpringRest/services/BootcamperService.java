@@ -1,7 +1,7 @@
 package com.openbootcamp.demoSpringRest.services;
 
 import com.openbootcamp.demoSpringRest.models.Bootcamper;
-import org.jvnet.hk2.annotations.Service;
+import org.springframework.stereotype.Service;
 
 import java.util.ArrayList;
 import java.util.List;
